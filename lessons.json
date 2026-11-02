@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "lessons": [
     {
       "title": "Test Lesson",
@@ -39,6 +39,46 @@
         { "norwegian": "bra", "english": "well", "tip": null },
         { "norwegian": "takk", "english": "thanks", "tip": null },
         { "norwegian": "senere", "english": "later", "tip": null }
+      ]
+    },
+    {
+      "title": "Test Lesson 2",
+      "subtitle": "Second live-content update test",
+      "icon": "bolt.fill",
+      "color": "green",
+      "items": [
+        {
+          "norwegian": "God morgen!",
+          "english": "Good morning!",
+          "tip": "A greeting used in the morning."
+        },
+        {
+          "norwegian": "Hva heter du?",
+          "english": "What is your name?",
+          "tip": "Literally asks what you are called."
+        },
+        {
+          "norwegian": "Jeg heter Sam.",
+          "english": "My name is Sam.",
+          "tip": "Literally: I am called Sam."
+        },
+        {
+          "norwegian": "Hyggelig å møte deg.",
+          "english": "Nice to meet you.",
+          "tip": "A useful phrase after an introduction."
+        },
+        {
+          "norwegian": "Ha det bra!",
+          "english": "Goodbye!",
+          "tip": "A friendly way to say goodbye."
+        }
+      ],
+      "wordPairs": [
+        { "norwegian": "morgen", "english": "morning", "tip": null },
+        { "norwegian": "heter", "english": "am called", "tip": null },
+        { "norwegian": "hyggelig", "english": "nice", "tip": null },
+        { "norwegian": "møte", "english": "meet", "tip": null },
+        { "norwegian": "bra", "english": "good / well", "tip": null }
       ]
     }
   ]
