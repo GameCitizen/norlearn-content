@@ -1,4 +1,686 @@
 {
-  "version": 4,
-  "lessons": []
+  "version": 5,
+  "replaceBuiltIns": true,
+  "lessons": [
+    {
+      "section": "Fundamental Phrases",
+      "title": "Essential Answers",
+      "subtitle": "Age, knowledge and understanding",
+      "icon": "quote.bubble.fill",
+      "color": "indigo",
+      "items": [
+        {
+          "norwegian": "Hvor gammel er du?",
+          "english": "How old are you?"
+        },
+        {
+          "norwegian": "Jeg er … år.",
+          "english": "I am … years old."
+        },
+        {
+          "norwegian": "Jeg vet ikke.",
+          "english": "I don't know."
+        },
+        {
+          "norwegian": "Jeg forstår ikke.",
+          "english": "I don't understand."
+        },
+        {
+          "norwegian": "Hva mener du?",
+          "english": "What do you mean?"
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "hvor",
+          "english": "where",
+          "tip": null
+        },
+        {
+          "norwegian": "gammel",
+          "english": "old",
+          "tip": null
+        },
+        {
+          "norwegian": "jeg",
+          "english": "I",
+          "tip": null
+        },
+        {
+          "norwegian": "år",
+          "english": "year / years",
+          "tip": null
+        },
+        {
+          "norwegian": "vet",
+          "english": "know",
+          "tip": null
+        },
+        {
+          "norwegian": "forstår",
+          "english": "understand",
+          "tip": null
+        },
+        {
+          "norwegian": "hva",
+          "english": "what",
+          "tip": null
+        },
+        {
+          "norwegian": "mener",
+          "english": "mean",
+          "tip": null
+        },
+        {
+          "norwegian": "du",
+          "english": "you",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Fundamental Phrases",
+      "title": "Ask for Clarification",
+      "subtitle": "Repeat, slow down and find the words",
+      "icon": "quote.bubble.fill",
+      "color": "indigo",
+      "items": [
+        {
+          "norwegian": "Kan du gjenta det?",
+          "english": "Can you repeat that?"
+        },
+        {
+          "norwegian": "Kan du snakke saktere?",
+          "english": "Could you speak more slowly?"
+        },
+        {
+          "norwegian": "Hvordan sier man … på norsk?",
+          "english": "How do you say … in Norwegian?"
+        },
+        {
+          "norwegian": "Jeg kan snakke norsk.",
+          "english": "I can speak Norwegian."
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "hvor",
+          "english": "where",
+          "tip": null
+        },
+        {
+          "norwegian": "jeg",
+          "english": "I",
+          "tip": null
+        },
+        {
+          "norwegian": "kan",
+          "english": "can",
+          "tip": null
+        },
+        {
+          "norwegian": "du",
+          "english": "you",
+          "tip": null
+        },
+        {
+          "norwegian": "gjenta",
+          "english": "repeat",
+          "tip": null
+        },
+        {
+          "norwegian": "snakke",
+          "english": "speak",
+          "tip": null
+        },
+        {
+          "norwegian": "saktere",
+          "english": "more slowly",
+          "tip": null
+        },
+        {
+          "norwegian": "hvordan",
+          "english": "how",
+          "tip": null
+        },
+        {
+          "norwegian": "sier",
+          "english": "say",
+          "tip": null
+        },
+        {
+          "norwegian": "norsk",
+          "english": "Norwegian",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Fundamental Phrases",
+      "title": "About You",
+      "subtitle": "Where you come from and where you live",
+      "icon": "quote.bubble.fill",
+      "color": "indigo",
+      "items": [
+        {
+          "norwegian": "Hvor kommer du fra?",
+          "english": "Where do you come from?"
+        },
+        {
+          "norwegian": "Jeg er fra Storbritannia.",
+          "english": "I am from the UK.",
+          "tip": "Storbritannia is the Bokmål name for the United Kingdom."
+        },
+        {
+          "norwegian": "Hvor bor du?",
+          "english": "Where do you live?"
+        },
+        {
+          "norwegian": "Jeg bor i Oslo.",
+          "english": "I live in Oslo."
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "hvor",
+          "english": "where",
+          "tip": null
+        },
+        {
+          "norwegian": "jeg",
+          "english": "I",
+          "tip": null
+        },
+        {
+          "norwegian": "du",
+          "english": "you",
+          "tip": null
+        },
+        {
+          "norwegian": "kommer",
+          "english": "come",
+          "tip": null
+        },
+        {
+          "norwegian": "fra",
+          "english": "from",
+          "tip": null
+        },
+        {
+          "norwegian": "bor",
+          "english": "live",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Basic words",
+      "title": "Quick Responses",
+      "subtitle": "Maybe, yes, no, not and now",
+      "icon": "textformat.abc",
+      "color": "orange",
+      "items": [
+        {
+          "norwegian": "Kanskje",
+          "english": "Maybe",
+          "tip": "Memory aid: kan (can) + skje (happen)."
+        },
+        {
+          "norwegian": "Nei",
+          "english": "No"
+        },
+        {
+          "norwegian": "Ja",
+          "english": "Yes"
+        },
+        {
+          "norwegian": "Ikke",
+          "english": "Not"
+        },
+        {
+          "norwegian": "Nå",
+          "english": "Now"
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "kanskje",
+          "english": "maybe",
+          "tip": null
+        },
+        {
+          "norwegian": "nei",
+          "english": "no",
+          "tip": null
+        },
+        {
+          "norwegian": "ja",
+          "english": "yes",
+          "tip": null
+        },
+        {
+          "norwegian": "ikke",
+          "english": "not",
+          "tip": null
+        },
+        {
+          "norwegian": "nå",
+          "english": "now",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Basic words",
+      "title": "People & Connections",
+      "subtitle": "Everyone, nobody, but, with and only",
+      "icon": "textformat.abc",
+      "color": "orange",
+      "items": [
+        {
+          "norwegian": "Alle",
+          "english": "Everyone / all"
+        },
+        {
+          "norwegian": "Ingen",
+          "english": "No one / nobody"
+        },
+        {
+          "norwegian": "Men",
+          "english": "But"
+        },
+        {
+          "norwegian": "Med",
+          "english": "With"
+        },
+        {
+          "norwegian": "Bare / kun",
+          "english": "Only",
+          "tip": "Both can mean ‘only’; bare is especially common in speech."
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "alle",
+          "english": "everyone / all",
+          "tip": null
+        },
+        {
+          "norwegian": "ingen",
+          "english": "nobody",
+          "tip": null
+        },
+        {
+          "norwegian": "men",
+          "english": "but",
+          "tip": null
+        },
+        {
+          "norwegian": "med",
+          "english": "with",
+          "tip": null
+        },
+        {
+          "norwegian": "bare",
+          "english": "only",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Basic words",
+      "title": "Describe Things",
+      "subtitle": "Good, great, fine and bad",
+      "icon": "textformat.abc",
+      "color": "orange",
+      "items": [
+        {
+          "norwegian": "Bra",
+          "english": "Good"
+        },
+        {
+          "norwegian": "Flott",
+          "english": "Great"
+        },
+        {
+          "norwegian": "Fint",
+          "english": "Fine / nice"
+        },
+        {
+          "norwegian": "Dårlig",
+          "english": "Bad"
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "bra",
+          "english": "good",
+          "tip": null
+        },
+        {
+          "norwegian": "flott",
+          "english": "great",
+          "tip": null
+        },
+        {
+          "norwegian": "fint",
+          "english": "fine",
+          "tip": null
+        },
+        {
+          "norwegian": "dårlig",
+          "english": "bad",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Basic words",
+      "title": "Polite Words",
+      "subtitle": "Thanks, welcome, sorry and apologies",
+      "icon": "textformat.abc",
+      "color": "orange",
+      "items": [
+        {
+          "norwegian": "Takk",
+          "english": "Thank you"
+        },
+        {
+          "norwegian": "Tusen takk",
+          "english": "Thank you so much"
+        },
+        {
+          "norwegian": "Bare hyggelig",
+          "english": "You're welcome"
+        },
+        {
+          "norwegian": "Slem",
+          "english": "Mean / nasty",
+          "tip": "Slem describes an unkind person or action. Dårlig is the general word for ‘bad’."
+        },
+        {
+          "norwegian": "Unnskyld",
+          "english": "Excuse me / sorry"
+        },
+        {
+          "norwegian": "Beklager",
+          "english": "Sorry"
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "bare",
+          "english": "only",
+          "tip": null
+        },
+        {
+          "norwegian": "takk",
+          "english": "thanks",
+          "tip": null
+        },
+        {
+          "norwegian": "hyggelig",
+          "english": "pleasant / nice",
+          "tip": null
+        },
+        {
+          "norwegian": "slem",
+          "english": "mean / nasty",
+          "tip": null
+        },
+        {
+          "norwegian": "unnskyld",
+          "english": "excuse me / sorry",
+          "tip": null
+        },
+        {
+          "norwegian": "beklager",
+          "english": "sorry",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Greetings",
+      "title": "How Are You?",
+      "subtitle": "Ask and answer how things are going",
+      "icon": "hand.wave.fill",
+      "color": "green",
+      "items": [
+        {
+          "norwegian": "Hvordan går det?",
+          "english": "How are you?"
+        },
+        {
+          "norwegian": "Hvordan står det til?",
+          "english": "How's it going?"
+        },
+        {
+          "norwegian": "Hvordan har du det?",
+          "english": "How are you feeling?"
+        },
+        {
+          "norwegian": "Jeg har det fint.",
+          "english": "I'm doing well."
+        },
+        {
+          "norwegian": "Det går bra.",
+          "english": "It's going well."
+        },
+        {
+          "norwegian": "Det går greit.",
+          "english": "It's going okay.",
+          "tip": "Greit usually means okay or all right, rather than great."
+        },
+        {
+          "norwegian": "Det går dårlig.",
+          "english": "It's going badly."
+        },
+        {
+          "norwegian": "Hva med deg?",
+          "english": "What about you?"
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "hvordan",
+          "english": "how",
+          "tip": null
+        },
+        {
+          "norwegian": "går",
+          "english": "goes",
+          "tip": null
+        },
+        {
+          "norwegian": "har",
+          "english": "have",
+          "tip": null
+        },
+        {
+          "norwegian": "fint",
+          "english": "fine / well",
+          "tip": null
+        },
+        {
+          "norwegian": "bra",
+          "english": "well / good",
+          "tip": null
+        },
+        {
+          "norwegian": "greit",
+          "english": "okay",
+          "tip": null
+        },
+        {
+          "norwegian": "dårlig",
+          "english": "badly",
+          "tip": null
+        },
+        {
+          "norwegian": "med",
+          "english": "with",
+          "tip": null
+        },
+        {
+          "norwegian": "deg",
+          "english": "you",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Greetings",
+      "title": "Names & Introductions",
+      "subtitle": "Ask and tell someone your name",
+      "icon": "hand.wave.fill",
+      "color": "green",
+      "items": [
+        {
+          "norwegian": "Hva er navnet ditt?",
+          "english": "What is your name?",
+          "tip": "The possessive ditt makes the question complete: ‘What is your name?’"
+        },
+        {
+          "norwegian": "Hva heter du?",
+          "english": "What's your name?",
+          "tip": "This is the most natural everyday way to ask someone's name."
+        },
+        {
+          "norwegian": "Mitt navn er …",
+          "english": "My name is …"
+        },
+        {
+          "norwegian": "Jeg heter …",
+          "english": "My name is …",
+          "tip": "Literally: ‘I am called …’"
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "navn",
+          "english": "name",
+          "tip": null
+        },
+        {
+          "norwegian": "heter",
+          "english": "am / is called",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Greetings",
+      "title": "Ways to Say Goodbye",
+      "subtitle": "Everyday and formal farewells",
+      "icon": "hand.wave.fill",
+      "color": "green",
+      "items": [
+        {
+          "norwegian": "Ha det bra / ha det fint / ha det godt",
+          "english": "Goodbye / take care"
+        },
+        {
+          "norwegian": "Ha det",
+          "english": "Goodbye"
+        },
+        {
+          "norwegian": "På gjensyn",
+          "english": "Until we meet again"
+        },
+        {
+          "norwegian": "Farvel",
+          "english": "Farewell",
+          "tip": "Farvel can sound more final than the everyday ha det."
+        },
+        {
+          "norwegian": "Adjø",
+          "english": "Goodbye",
+          "tip": "Adjø is formal or final and is less common in everyday conversation."
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "fint",
+          "english": "fine / well",
+          "tip": null
+        },
+        {
+          "norwegian": "bra",
+          "english": "well / good",
+          "tip": null
+        }
+      ]
+    },
+    {
+      "section": "Greetings",
+      "title": "See You Later",
+      "subtitle": "Finish conversations naturally",
+      "icon": "hand.wave.fill",
+      "color": "green",
+      "items": [
+        {
+          "norwegian": "Det var hyggelig å se deg.",
+          "english": "It was nice seeing you."
+        },
+        {
+          "norwegian": "Det var hyggelig å treffe deg.",
+          "english": "It was nice to meet you."
+        },
+        {
+          "norwegian": "Vi sees senere.",
+          "english": "See you later."
+        },
+        {
+          "norwegian": "Vi sees.",
+          "english": "See you."
+        },
+        {
+          "norwegian": "Sees senere.",
+          "english": "See you later."
+        },
+        {
+          "norwegian": "Vi snakkes senere.",
+          "english": "We'll talk later."
+        }
+      ],
+      "wordPairs": [
+        {
+          "norwegian": "deg",
+          "english": "you",
+          "tip": null
+        },
+        {
+          "norwegian": "hyggelig",
+          "english": "nice / pleasant",
+          "tip": null
+        },
+        {
+          "norwegian": "se",
+          "english": "see",
+          "tip": null
+        },
+        {
+          "norwegian": "treffe",
+          "english": "meet",
+          "tip": null
+        },
+        {
+          "norwegian": "sees",
+          "english": "see you",
+          "tip": null
+        },
+        {
+          "norwegian": "senere",
+          "english": "later",
+          "tip": null
+        },
+        {
+          "norwegian": "snakkes",
+          "english": "talk later",
+          "tip": null
+        }
+      ]
+    }
+  ]
 }
